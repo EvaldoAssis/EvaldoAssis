@@ -21,7 +21,7 @@
   <br>
  
 <div align="center"> 
-   <a href="https://www.linkedin.com/in/perfilevaldoassis" target="_blank"><img width="122px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/evaldoassis" target="_blank"><img width="122px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:contatodoassisz@gmail.com"><img width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <br>  <br>
