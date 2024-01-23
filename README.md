@@ -1,7 +1,7 @@
 ### Olá! Sou Evaldo Assis
 
-- 💼 Atualmente atuo como Desenvolvedor Salesforce na IBM Brasil
-- 📚 Estudando Salesforce e JAVA
+- 💼 Atualmente atuo como Desenvolvedor Salesforce na Delloite Digital
+- 📚 Estudando JavaScript e tendências do mercado
 - 🚀 Minha meta é frutificar as ideias empreendedoras e inovar cada vez mais
 
 <div align="center">
